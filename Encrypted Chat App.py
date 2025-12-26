@@ -4,7 +4,7 @@ from cryptography.hazmat.primitives import padding
 from cryptography.hazmat.backends import default_backend
 
 HOST, PORT = "127.0.0.1", 5000
-KEY = b"this_is_a_32_byte_secret_key!!xx"  # ✅ 32 bytes for AES-256
+KEY = b"this_is_a_32_byte_secret_key!!xx" 
 LOG_FILE = "chat.log"
 
 logging.basicConfig(filename=LOG_FILE, level=logging.INFO, format="%(asctime)s - %(message)s")
@@ -76,3 +76,4 @@ if __name__ == "__main__":
         start_client()
     else:
         print("Invalid mode. Type 'server' or 'client'.")
+
