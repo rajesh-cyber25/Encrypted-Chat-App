@@ -54,6 +54,7 @@ Messages will be:
 > Logged as ciphertext in chat.log.
 
 🔒 Security Implementation:
+
 > AES-256 (CBC mode) used for encryption,
 > Random IV per message prevents pattern attacks,
 > PKCS7 padding ensures block alignment,
