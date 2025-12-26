@@ -40,7 +40,7 @@ Open PowerShell / Command Prompt:
         python "Encrypted Chat App.py"
 When prompted:
 
-        Enter mode (server/client): server,
+        Enter mode (server/client): server
 You should see:
 
         Server listening on 127.0.0.1:5000
@@ -51,7 +51,7 @@ Open another PowerShell window and run:
         python "Encrypted Chat App.py"
 Choose:
 
-        Enter mode (server/client): client,
+        Enter mode (server/client): client
 Repeat this step to connect multiple clients.
 
 Step 3: Chat Securely
