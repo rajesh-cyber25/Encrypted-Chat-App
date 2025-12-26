@@ -1,14 +1,14 @@
-🔐 Encrypted Chat Application (AES):
+🔐 Encrypted Chat Application (AES)
 
 A secure client–server chat application built using Python as part of the SYNTECXHUB 4-Week Virtual Cyber Security Internship.
 All messages are encrypted using AES symmetric encryption before transmission.
 
-📌 Project Overview:
+📌 Project Overview
 
 This project demonstrates how secure communication can be implemented over TCP sockets using AES encryption, random IVs, and multithreading.
 The server supports multiple clients simultaneously and logs only encrypted messages, ensuring confidentiality.
 
-🚀 Features:
+🚀 Features
 > TCP socket-based client–server communication,
 > AES (CBC mode) encryption for messages,
 > Random IV generated for every message,
