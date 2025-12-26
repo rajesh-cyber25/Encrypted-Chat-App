@@ -23,8 +23,10 @@ The server supports multiple clients simultaneously and logs only encrypted mess
 > cryptography – AES encryption.
 
 ⚙️ Installation & Setup
+
 1️⃣ Install Python:
         Ensure Python 3.11+ is installed
+        
 2️⃣ Install Required Library:
         python -m pip install cryptography
         
