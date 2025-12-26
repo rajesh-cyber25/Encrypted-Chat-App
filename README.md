@@ -46,6 +46,7 @@ Step 2: Start Clients (in new terminals)
 Open another PowerShell window and run:
         python "Encrypted Chat App.py"
 Choose:
+
         Enter mode (server/client): client,
 Repeat this step to connect multiple clients.
 
