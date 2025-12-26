@@ -7,13 +7,13 @@ This project demonstrates how secure communication can be implemented over TCP s
 The server supports multiple clients simultaneously and logs only encrypted messages, ensuring confidentiality.
 
 🚀 Features:
-> TCP socket-based client–server communication
-> AES (CBC mode) encryption for messages
-> Random IV generated for every message
-> Pre-shared symmetric key handling
-> Supports multiple clients (threading)
-> Encrypted message logging
-> Works on Windows (PowerShell / CMD)
+> TCP socket-based client–server communication,
+> AES (CBC mode) encryption for messages,
+> Random IV generated for every message,
+> Pre-shared symmetric key handling,
+> Supports multiple clients (threading),
+> Encrypted message logging,
+> Works on Windows (PowerShell / CMD).
 
 🛠 Technologies Used:
 > Python 3.x
