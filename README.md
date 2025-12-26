@@ -41,6 +41,7 @@ Open PowerShell / Command Prompt:
 When prompted:
 
         Enter mode (server/client): server
+        
 You should see:
 
         Server listening on 127.0.0.1:5000
@@ -52,6 +53,7 @@ Open another PowerShell window and run:
 Choose:
 
         Enter mode (server/client): client
+        
 Repeat this step to connect multiple clients.
 
 Step 3: Chat Securely
