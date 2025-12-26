@@ -65,19 +65,22 @@ Messages will be:
 > Encrypted logs only (no plaintext stored).
 
 Example log entry:
+
         Encrypted message from ('127.0.0.1', 52522):
         8c564196f259c61f79db0ccdcbb363f8...
 
 ⚠️ Disclaimer:
+
 This project is developed strictly for educational and internship purposes.
 Do not use this application for real-world secure communication without implementing:
-       > Secure key exchange (e.g., Diffie-Hellman)
-       > Authentication
-       > TLS/SSL
+       > Secure key exchange (e.g., Diffie-Hellman),
+       > Authentication,
+       > TLS/SSL.
        
 📈 Future Enhancements:
-> Secure key exchange (Diffie-Hellman)
-> User authentication
-> TLS integration
-> GUI-based client
-> Message integrity (HMAC)
+
+> Secure key exchange (Diffie-Hellman),
+> User authentication,
+> TLS integration,
+> GUI-based client,
+> Message integrity (HMAC).
