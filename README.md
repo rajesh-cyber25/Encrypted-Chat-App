@@ -29,6 +29,7 @@ The server supports multiple clients simultaneously and logs only encrypted mess
         python -m pip install cryptography
         
 ▶️ How to Run
+
 Step 1: Start the Server
 Open PowerShell / Command Prompt:
         python "Encrypted Chat App.py"
