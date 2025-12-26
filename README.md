@@ -36,10 +36,13 @@ The server supports multiple clients simultaneously and logs only encrypted mess
 
 Step 1: Start the Server
 Open PowerShell / Command Prompt:
+
         python "Encrypted Chat App.py"
 When prompted:
+
         Enter mode (server/client): server,
 You should see:
+
         Server listening on 127.0.0.1:5000
         
 Step 2: Start Clients (in new terminals)
