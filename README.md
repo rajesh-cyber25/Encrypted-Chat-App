@@ -46,7 +46,8 @@ Repeat this step to connect multiple clients.
 
 Step 3: Chat Securely
 Type messages in any client:
-    You: hello
+
+You: hello
         
 Messages will be:
 > Encrypted during transmission,
