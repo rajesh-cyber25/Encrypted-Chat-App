@@ -47,10 +47,11 @@ Repeat this step to connect multiple clients.
 Step 3: Chat Securely
 Type messages in any client:
         You: hello
+        
 Messages will be:
-> Encrypted during transmission
-> Decrypted only at the client
-> Logged as ciphertext in chat.log
+> Encrypted during transmission,
+> Decrypted only at the client,
+> Logged as ciphertext in chat.log.
 
 🔒 Security Implementation:
 > AES-256 (CBC mode) used for encryption
