@@ -17,7 +17,7 @@ The server supports multiple clients simultaneously and logs only encrypted mess
 > Encrypted message logging,
 > Works on Windows (PowerShell / CMD).
 
-🛠 Technologies Used:
+🛠 Technologies Used
 > Python 3.x,
 > socket – networking,
 > threading – concurrency,
@@ -64,7 +64,7 @@ Messages will be:
 > Decrypted only at the client,
 > Logged as ciphertext in chat.log.
 
-🔒 Security Implementation:
+🔒 Security Implementation
 
 > AES-256 (CBC mode) used for encryption,
 > Random IV per message prevents pattern attacks,
@@ -76,7 +76,7 @@ Example log entry:
         Encrypted message from ('127.0.0.1', 52522):
         8c564196f259c61f79db0ccdcbb363f8...
 
-⚠️ Disclaimer:
+⚠️ Disclaimer
 
 This project is developed strictly for educational and internship purposes.
 Do not use this application for real-world secure communication without implementing:
@@ -84,7 +84,7 @@ Do not use this application for real-world secure communication without implemen
        Authentication,
        TLS/SSL.
        
-📈 Future Enhancements:
+📈 Future Enhancements
 
 > Secure key exchange (Diffie-Hellman),
 > User authentication,
