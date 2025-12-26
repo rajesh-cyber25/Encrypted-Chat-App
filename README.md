@@ -16,11 +16,11 @@ The server supports multiple clients simultaneously and logs only encrypted mess
 > Works on Windows (PowerShell / CMD).
 
 🛠 Technologies Used:
-> Python 3.x
-> socket – networking
-> threading – concurrency
-> logging – message logging
-> cryptography – AES encryption
+> Python 3.x,
+> socket – networking,
+> threading – concurrency,
+> logging – message logging,
+> cryptography – AES encryption.
 
 ⚙️ Installation & Setup
 1️⃣ Install Python:
